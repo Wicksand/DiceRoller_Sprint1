@@ -1,0 +1,1 @@
+rootProject.name = "DiceRoller_Sprint1"
