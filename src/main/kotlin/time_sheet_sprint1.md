@@ -1,8 +1,8 @@
 # CSE 310 - Sprint Time Log
 
-Name:
+Name: Andrew Wicks
 
-Sprint #:
+Sprint #: 1
 
 ## Instructions
 
@@ -37,8 +37,8 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 5/4  | 8:00       |    IM    | finished second program. learned building shapes in lanterna.                                  |      30       |
 | 5/5  | 7:30       |    IM    | learned when command + preped basic user input outline                                         |      70       |
 | 5/6  | 3:00       |    TP    | Reviewed initial structure changes and discussed plans.                                        |      35       |
-| 5/7  | 1:00       |    IM    |                                                                                                |               |
-|      |            |          |                                                                                                |               |
+| 5/7  | 1:00       |    IM    | fixed github configuration and built project class structure.                                  |      75       |
+| 5/7  | 7:00       |    IM    |                                                                                                |               |
 |      |            |          |                                                                                                |               |
 
 

@@ -33,9 +33,10 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* https://www.w3schools.com/
+* https://chatgpt.com/
+* https://claude.ai/new
+* 
 
 ## Future Work
 
