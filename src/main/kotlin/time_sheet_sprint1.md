@@ -25,22 +25,22 @@ The expected minimum amount of time each Sprint for each category is as follows:
 ## Time Log
 
 | Date | Start Time | Category | Description                                                                                    | Total Minutes |
-|-----|------------|:--------:|------------------------------------------------------------------------------------------------|:-------------:|
+|------|------------|:--------:|------------------------------------------------------------------------------------------------|:-------------:|
 | 4/27 | 9:50       |    IM    | Downloaded and tested programming environment                                                  |      65       |
 | 4/28 | 11:30      |    IM    | fixed run bug and learned + practiced variable                                                 |      66       |
 | 4/29 | 2:00       |    TP    | Learned/planned server hosting framework. discussed overall functionality, created file system |      130      |
 | 4/30 | 9:00       |    IM    | Started calculator program. I got basic functionality done                                     |      103      |
-| 5/1 | 2:00       |    TP    | set up server systems discussed error recognition structure                                    |      70       |
-| 5/3 | 7:30       |    IM    | Used Claud to start learning the basics of Lanterna. + finish Calculator program.              |      75       |
-| 5/4 | 1:20       |    IM    | Fixed compile issue with graphics system started on second test program                        |      33       |
-| 5/4 | 2:00       |    TP    | Planned team presentation, learned/ started developing json file structure                     |      120      |
-| 5/4 | 8:00       |    IM    | finished second program. learned building shapes in lanterna.                                  |      30       |
-| 5/5 | 7:30       |    IM    | learned when command + preped basic user input outline                                         |      70       |
-| 5/6 | 3:00       |    TP    | Reviewed initial structure changes and discussed plans.                                        |      35       |
-| 5/7 | 1:00       |    IM    | fixed github configuration and built project class structure.                                  |      75       |
-| 5/7 | 7:00       |    IM    | Programmed dice classes                                                                        |      20       |
-| 5/7 | 11:00      |          |                                                                                                |               |
-  |            |            |                                                                                                |               |
+| 5/1  | 2:00       |    TP    | set up server systems discussed error recognition structure                                    |      70       |
+| 5/3  | 7:30       |    IM    | Used Claud to start learning the basics of Lanterna. + finish Calculator program.              |      75       |
+| 5/4  | 1:20       |    IM    | Fixed compile issue with graphics system started on second test program                        |      33       |
+| 5/4  | 2:00       |    TP    | Planned team presentation, learned/ started developing json file structure                     |      120      |
+| 5/4  | 8:00       |    IM    | finished second program. learned building shapes in lanterna.                                  |      30       |
+| 5/5  | 7:30       |    IM    | learned when command + preped basic user input outline                                         |      70       |
+| 5/6  | 3:00       |    TP    | Reviewed initial structure changes and discussed plans.                                        |      35       |
+| 5/7  | 1:00       |    IM    | fixed github configuration and built project class structure.                                  |      75       |
+| 5/7  | 7:00       |    IM    | Programmed dice classes                                                                        |      20       |
+| 5/7  | 11:00      |    IM    | Built core functionality of program.                                                           |      190      |
+  | 5/8  |            |          |                                                                                                |
 
 
 _Note: Add more rows as needed._
