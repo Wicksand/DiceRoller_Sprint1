@@ -16,7 +16,7 @@ class Visualizer (
         diceList.dice.forEachIndexed{i,die ->
             drawDie(die, i, i == state.currVal)
         }
-        drawTotal(diceList.total)
+        //drawTotal(diceList.total)
         drawControls()
         screen.refresh()
     }
@@ -44,11 +44,11 @@ class Visualizer (
     }
 
     private fun drawControls(){
-        g.putString(2,9," (↑↓) select a die     (Enter) roll     (q) will quit.")
+        g.putString(2,9," (<- ->) select a die     (Enter) roll     (q) will quit.")
     }
 
-    private fun drawTotal(total: Int){
-        g.putString(2,7, "Total: $total")
-        }
+    //private fun drawTotal(total: Int){
+    //    g.putString(2,7, "Total: $total")
+     //   }
 
 }

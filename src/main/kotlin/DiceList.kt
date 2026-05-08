@@ -10,7 +10,7 @@ class DiceList {
             Die(100,"d100")
         )
 
-    val total: Int
-        get() = dice.filter { it.roll > 0 }.sumOf { it.roll }
+    //val total: Int
+      //  get() = dice.filter { it.roll > 0 }.sumOf { it.roll }
 
 }

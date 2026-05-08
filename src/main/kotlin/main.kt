@@ -28,8 +28,8 @@ fun main(){
                         'q' -> state.running = false
                     }
                 }
-                KeyType.ArrowDown -> state.Down()
-                KeyType.ArrowUp -> state.Up()
+                KeyType.ArrowRight -> state.Right()
+                KeyType.ArrowLeft -> state.Left()
                 KeyType.Enter -> diceList.dice[state.currVal].rollit()
 
                 else -> {

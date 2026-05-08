@@ -4,11 +4,11 @@ class Controller (val diceCount: Int) {
     var running: Boolean = true
 
     // up and down scrolls through dice
-    fun Up () {
+    fun Left () {
         currVal = (currVal - 1).coerceAtLeast(0)
     }
 
-    fun Down () {
+    fun Right () {
         currVal = (currVal + 1).coerceAtMost(diceCount - 1)
     }
 
