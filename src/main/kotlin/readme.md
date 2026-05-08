@@ -1,4 +1,4 @@
-# Project Title (Update)
+# Dice Roller
 
 Add a description of your project here.
 
