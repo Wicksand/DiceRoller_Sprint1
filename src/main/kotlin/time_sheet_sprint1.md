@@ -47,9 +47,9 @@ _Note: Add more rows as needed._
 
 ## Sprint Totals
 
-|Categroy                       |Total Time (Hours:Minutes)|
-|-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|Categroy                       |    Total Time (Hours:Minutes)     |
+|-------------------------------|:---------------------------------:|
+|IM - Individual Module         |               12:07               |
+|TP - Team Project              |               5:55                |
+|MTG - Class Meetings           | 3 (I attended all class meetings) |
+|**TOTAL**                      |               21:02               |
